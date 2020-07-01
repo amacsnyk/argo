@@ -15,7 +15,7 @@
         "@fortawesome/fontawesome-free": "^5.12.0",
         "argo-ui": "https://github.com/argoproj/argo-ui.git",
         "classnames": "^2.2.5",
-        "formik": "^2.1.2",
+        "formik": "^2.1.4",
         "history": "^4.7.2",
         "js-yaml": "^3.13.1",
         "json-merge-patch": "^0.2.3",
